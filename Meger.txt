@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Org1
+=======
+feature 2
+>>>>>>> develop
